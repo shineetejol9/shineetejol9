@@ -20,7 +20,7 @@ I've contributed to projects through programs like **GSSoC** and **Social Summer
 
 If you'd like to collaborate on a project or just chat about tech, feel free to reach out!
 
-my portfolio --- https://portfolio-237z4z0r8-shinees-projects-38bd9dcd.vercel.app/
+my portfolio --- https://portfolio-las6rwnev-shinees-projects-38bd9dcd.vercel.app/
 
 ### 📫 Connect with me
 
